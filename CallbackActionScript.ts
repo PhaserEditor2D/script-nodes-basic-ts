@@ -1,5 +1,5 @@
 
-// You can write more code here
+/// <reference path="./ScriptNode.ts"/>
 
 /* START OF COMPILED CODE */
 

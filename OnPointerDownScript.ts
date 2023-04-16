@@ -1,3 +1,4 @@
+/// <reference path="./OnEventScript.ts"/>
 
 // You can write more code here
 
